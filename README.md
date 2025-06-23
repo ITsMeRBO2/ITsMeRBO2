@@ -1,5 +1,5 @@
 # 💫 About Me:
-m learning dev
+why not ?
 
 
 ## 🌐 Socials:
