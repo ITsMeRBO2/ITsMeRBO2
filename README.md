@@ -109,38 +109,15 @@ Penetration Testing · Full-Stack Development · Security Tooling
 
 <br>
 
-## `$ ./exploit --target featured_project`
-
-<table>
-<tr>
-<td>
-
-### 🛡️ Kali Pentest Toolkit
-Desktop pentest toolkit built for Kali Linux with PyQt6.
-
-- Modules: Nmap scanning, Gobuster, John the Ripper, subdomain enumeration
-- Built by prompt-engineering the AI coding tool Antigravity, with a strong focus on quality control and self-testing
-- Status: `[ ACTIVE DEVELOPMENT ]`
-
-</td>
-</tr>
-</table>
-
-<br>
-
 ## `$ ./scan_stats.sh --github`
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ITsMeRBO2&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&count_private=true" width="48%"/>
+<img src="https://raw.githubusercontent.com/ITsMeRBO2/ITsMeRBO2/main/profile/stats.svg" width="48%"/>
 <img src="https://streak-stats.demolab.com/?user=ITsMeRBO2&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9" width="48%"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ITsMeRBO2&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" width="48%"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ITsMeRBO2&theme=algolia&no-frame=true&margin-w=8&row=1"/>
+<img src="https://raw.githubusercontent.com/ITsMeRBO2/ITsMeRBO2/main/profile/top-langs.svg" width="48%"/>
 </p>
 
 <br>
