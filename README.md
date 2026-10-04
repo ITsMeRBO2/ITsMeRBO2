@@ -18,13 +18,13 @@
 
 ```bash
 > whoami
-0xMerb — Rahil Ibrahim
+0xMerb
 
 > role
-5th-year Cybersecurity Engineering Student
+evrything
 
 > location
-Casablanca, Morocco
+Somewhere in world 
 
 > focus
 Penetration Testing · Full-Stack Development · Security Tooling
