@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff41&height=220&section=header&text=0xMerb&fontSize=70&fontColor=00ff41&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20Engineer%20%7C%20Pentester%20%7C%20Full-Stack%20Dev&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=700&height=50&lines=root%400xMerb%3A~%23%20whoami;Breaking%20systems%20to%20build%20better%20defenses;Somewhere%2inw%2world%2C%20Morocco" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=700&height=50&lines=root%400xMerb%3A~%23%20whoami;Breaking%20systems%20to%20build%20better%20defenses;Somewhere inw world%2C%20Morocco" alt="Typing SVG" />
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=ITsMeRBO2&label=PROFILE+VIEWS&color=00ff41&style=flat-square"/>
