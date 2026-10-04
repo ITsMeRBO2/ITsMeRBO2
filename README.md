@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff41&height=220&section=header&text=0xMerb&fontSize=70&fontColor=00ff41&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20Engineer%20%7C%20Pentester%20%7C%20Full-Stack%20Dev&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=700&height=50&lines=root%400xMerb%3A~%23%20whoami;Breaking%20systems%20to%20build%20better%20defenses;5th-Year%20Cybersecurity%20Engineering%20Student;Casablanca%2C%20Morocco" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=700&height=50&lines=root%400xMerb%3A~%23%20whoami;Breaking%20systems%20to%20build%20better%20defenses;Somewhere%2inw%2world%2C%20Morocco" alt="Typing SVG" />
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=ITsMeRBO2&label=PROFILE+VIEWS&color=00ff41&style=flat-square"/>
@@ -39,7 +39,6 @@ Penetration Testing · Full-Stack Development · Security Tooling
 
 <p align="center">
   <a href="https://x.com/montoant56741"><img src="https://img.shields.io/badge/X-%40montoant56741-000000?style=for-the-badge&logo=x&logoColor=00ff41&labelColor=000000"/></a>
-  <a href="https://linkedin.com/in/rahil-ibrahim"><img src="https://img.shields.io/badge/LinkedIn-rahil--ibrahim-000000?style=for-the-badge&logo=linkedin&logoColor=00ff41&labelColor=000000"/></a>
   <a href="https://twitch.tv/itsmerb__"><img src="https://img.shields.io/badge/Twitch-itsmerb__-000000?style=for-the-badge&logo=twitch&logoColor=00ff41&labelColor=000000"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Discord-add%20yours-000000?style=for-the-badge&logo=discord&logoColor=00ff41&labelColor=000000"/></a>
 </p>
